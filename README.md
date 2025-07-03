@@ -1,6 +1,6 @@
 #  Defect Detection for Manufacturing Products
 
-A computer vision project using a CNN and transfer learning to detect subtle defects in manufactured products. Developed collaboratively as part of a machine learning and computer vision module (May 2024).
+A computer vision project using a CNN and transfer learning to detect subtle defects in manufactured products. Developed collaboratively as part of the subject *42028 Deep Learning and Convolutional Neural Network* (May 2024).
 
 ---
 
